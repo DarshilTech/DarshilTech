@@ -35,10 +35,10 @@
 
 ### 📫 **Get in Touch**
 📧 Email: [darshilmodi8141@gmail.com](mailto:darshilmodi8141@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/darshilmodi)  
-🌎 [Portfolio](https://your-portfolio.com)  
+💼 [LinkedIn](https://linkedin.com/in/darshil-modi-a997131a1)  
+🌎 [Portfolio](https://github.com/DarshilTech?tab=repositories)  
 
 ---
 
 ### 🚀 **GitHub Stats**
-![Darshil's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshilmodi&show_icons=true&theme=radical)
+![Darshil's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarshilTech&show_icons=true&theme=radical)
